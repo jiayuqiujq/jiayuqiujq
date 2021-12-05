@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi everyone! 👋
+
+My name is Jiayu but I also go by Jade. I hail from the sunny island of Singapore, but am currently a Data Science student under the Quantitative Methods & Social Sciences Masters Programme at Columbia University in the City of New York.
+
+My journey towards data science is a little unusual: I graduated from the University of Cambridge with a BA in Politics & Social Anthropology and spent a year working as a public servant in the Singapore government before embarking on my current programme. Politics and Anthropology might be as far as it can get from Data Science, but for me, that was precisely the point: I wanted to push myself to pick up a completely different skillset but at the same time, learn how to integrate qualitative and quantitative skills to solve problems I'm deeply passionate about.
+
+I'm deeply fascinated by people, questions and solutions. My training in Politics & Social Anthropology instilled a fundamental sense of wonder and curiosity about people. During my brief iteration as a public servant, I had to learn how to "sell" Singapore as a product to companies, an experience which taught me that there can be no selling without solutioning, and no solutioning with questioning: the sales pitches we make, and the product that we build (Singapore), can only be as good as the questions we ask about our clients' Jobs-to-be-Done and our citizens' aspirations. In my current iteration as a Data Science student, I’m continuing with this spirit of questioning and solutioning. I want to craft meaningful questions that tackle social issues which I am deeply passionate about, and leverage the power of big data to prototype and scale solutions to these questions.
+
+I'm still in the early stages of my journey in data science and in tech - the more I learn the more I realise how much more I still have to learn! As I progress in my journey, I hope to populate this page with more projects, especially ones that leverage tech to engineer social good, which is a mission I'm really committed to!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=jiayuqiujq"/>
 
 <!--
 **jiayuqiujq/jiayuqiujq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
